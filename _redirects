@@ -20,6 +20,3 @@
 /sitemap_github_video.xml       /sitemap_github_video.xml       200
 /sitemap_github_news.xml        /sitemap_github_news.xml        200
 /sitemap_github_index.xml       /sitemap_github_index.xml       200
-
-# Root Index fallback
-/*                              /index.html                     200
