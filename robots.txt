@@ -18,20 +18,23 @@ Sitemap: https://top-reviews.github.io/r/sitemap_github_index.xml
 Sitemap: https://top-reviews.github.io/r/sitemap_github.xml
 
 # Vercel Master Sitemap Index
-Sitemap: https://topreviews-r.vercel.app/sitemap_index.xml
+Sitemap: https://primebuyer-reviews.vercel.app/sitemap_index.xml
 
 # Cloudflare Pages Master Sitemap Index
-Sitemap: https://topreviews-r.pages.dev/sitemap_cloudflare_index.xml
+Sitemap: https://smartdeals-reviews.pages.dev/sitemap_cloudflare_index.xml
 
 # Netlify Master Sitemap Index
-Sitemap: https://topreviews-r.netlify.app/sitemap_netlify_index.xml
+Sitemap: https://smartdeals-reviews.netlify.app/sitemap_netlify_index.xml
 
 # Render Master Sitemap Index
-Sitemap: https://topreviews-r.onrender.com/sitemap_render_index.xml
+Sitemap: https://smartdeals-reviews.onrender.com/sitemap_render_index.xml
 
-# AWS S3 Master Sitemap Indexes
+# AWS S3 Penta-Cluster Master Sitemap Indexes
 Sitemap: https://primebuyer-reviews.s3.amazonaws.com/sitemap_index.xml
 Sitemap: https://vitalpulse-reports.s3.amazonaws.com/sitemap_index.xml
 Sitemap: https://truthguard-reports.s3.amazonaws.com/sitemap_index.xml
 Sitemap: https://realbuyer-reviews.s3.amazonaws.com/sitemap_index.xml
 Sitemap: https://apexverdict-reports.s3.amazonaws.com/sitemap_index.xml
+
+# Lovable Master Sitemap Index
+Sitemap: https://topreviews2026.lovable.app/sitemap_lovable_index.xml
