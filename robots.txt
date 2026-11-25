@@ -35,6 +35,3 @@ Sitemap: https://vitalpulse-reports.s3.amazonaws.com/sitemap_index.xml
 Sitemap: https://truthguard-reports.s3.amazonaws.com/sitemap_index.xml
 Sitemap: https://realbuyer-reviews.s3.amazonaws.com/sitemap_index.xml
 Sitemap: https://apexverdict-reports.s3.amazonaws.com/sitemap_index.xml
-
-# Lovable Master Sitemap Index
-Sitemap: https://topreviews2026.lovable.app/sitemap_lovable_index.xml
